@@ -56,7 +56,7 @@ class App extends React.Component {
           </p>
           <p>
           <label>
-            By Clicking Send you acknowledge to share your data for analysisn
+            By Clicking Send you acknowledge to share your data for Analysis
             <p></p>
           <input type="submit" value="Send" />
           </label>
